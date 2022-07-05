@@ -65,17 +65,17 @@
 <h1 align="center">Stats</h1>
 <p align="center">
     <a href="https://github.com/Kevin-Menezes/github-readme-streak-stats">
-        <img title="Streaks🔥" width="60%" alt="Kevin's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kevin-Menezes&theme=black-ice&hide_border=true&stroke=B6B6B6&background=000000&fire=FA8B00&ring=FA8B00&currStreakLabel=FA8B00&sideNums=FA8B00"/>
+        <img title="Streaks🔥" width="60%" alt="Kevin's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kevin-Menezes&theme=black-ice&hide_border=true&stroke=B6B6B6&background=000000&fire=FA8B00&ring=FA8B00&currStreakLabel=FA8B00&sideNums=86EFAC"/>
     </a>
 </p>
 
 <br/>
 
-<a href="https://github.com/Kevin-Menezes/github-readme-activity-graph"><img alt="Kevin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Kevin-Menezes&bg_color=0D1117&color=FA8B00&line=FA8B00&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Kevin-Menezes/github-readme-activity-graph"><img alt="Kevin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Kevin-Menezes&bg_color=0D1117&color=86EFAC&line=86EFAC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
-    <a href="https://github.com/Kevin-Menezes/github-readme-stats"><img alt="Kevin's Github Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=Kevin-Menezes&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000&icon_color=FA8B00&title_color=FA8B00" /></a>
-  <a href="https://github.com/Kevin-Menezes/github-readme-stats"><img alt="Kevin's Top Languages" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Menezes&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000&title_color=FA8B00" /></a>
+    <a href="https://github.com/Kevin-Menezes/github-readme-stats"><img alt="Kevin's Github Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=Kevin-Menezes&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000&icon_color=86EFAC&title_color=86EFAC" /></a>
+  <a href="https://github.com/Kevin-Menezes/github-readme-stats"><img alt="Kevin's Top Languages" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Menezes&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000&title_color=86EFAC" /></a>
  
 <br/>
  
