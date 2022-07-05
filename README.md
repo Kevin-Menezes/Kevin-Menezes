@@ -20,7 +20,7 @@
 <br/>  
 <br/>
 
-<img align="right" alt="Coding" width="370" height="270" src="https://github.com/Kevin-Menezes/Kevin-Menezes/blob/main/BlueCoder.gif">
+<img align="right" alt="Coding" width="370" height="270" src="https://github.com/Kevin-Menezes/Kevin-Menezes/blob/main/Coder.gif">
 
 
 ## About Me  
