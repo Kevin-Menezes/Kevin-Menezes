@@ -69,8 +69,8 @@
 <a href="https://github.com/Kevin-Menezes/github-readme-activity-graph"><img alt="Kevin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Kevin-Menezes&bg_color=0D1117&color=FA8B00&line=FA8B00&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
-    <a href="https://github.com/Kevin-Menezes/github-readme-stats" ><img alt="Kevin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kevin-Menezes&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000&icon_color=FA8B00&title_color=FA8B00" align="center" /></a>
-  <a href="https://github.com/Kevin-Menezes/github-readme-stats" ><img alt="Kevin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Menezes&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000&title_color=FA8B00" align="center" /></a>
+    <a href="https://github.com/Kevin-Menezes/github-readme-stats" align="center"  ><img alt="Kevin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kevin-Menezes&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000&icon_color=FA8B00&title_color=FA8B00" /></a>
+  <a href="https://github.com/Kevin-Menezes/github-readme-stats" align="center" ><img alt="Kevin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Menezes&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000&title_color=FA8B00" /></a>
  
 <br/>
  
