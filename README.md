@@ -27,7 +27,7 @@
 
 - Currently improving my skills in Python & Spring Boot 🍃     
 
-- Project Management 📝 + Java ☕ = ❤️    
+- ❤️ to consistently learn & explore different technologies    
 
 - Contact me on : kevinmenezes1811@gmail.com   
 
@@ -50,9 +50,9 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-777BB4?style=for-the-badge&logo=jpa&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-4EA94B?style=for-the-badge&logo=microservices&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST‎‎APIs-430098?style=for-the-badge&logo=restapis&logoColor=white)
-
 
 ## Others
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -63,7 +63,6 @@
 ![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![POSTMAN](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 ## Hobbies
