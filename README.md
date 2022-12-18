@@ -11,9 +11,10 @@
 <a href="https://linkedin.com/in/kevin-menezes-km18" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+<!--
 <a href="https://instagram.com/kevvv_18_" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+</a>  -->
 </div>  
 
 <br/>  
@@ -25,7 +26,7 @@
 ## About Me  
 - I’m a Java Backend Web Developer ⭐     
 
-- Currently improving my skills in Devops, Python & Microservices in Spring Boot 🍃     
+- Currently improving my skills in Devops, Python & Microservices using Spring Boot 🍃     
 
 - ❤️ to consistently learn & explore different technologies    
 
@@ -95,7 +96,9 @@
 
 <br/>
 
-<a href="https://github.com/Kevin-Menezes/github-readme-activity-graph"><img alt="Kevin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Kevin-Menezes&bg_color=0D1117&color=86EFAC&line=86EFAC&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="https://github.com/Kevin-Menezes/github-readme-activity-graph"><img alt="Kevin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Kevin-Menezes&bg_color=0D1117&color=86EFAC&line=86EFAC&point=FFFFFF&hide_border=true" /></a> -->
+
+[![Kevin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Kevin-Menezes&bg_color=0D1117&color=86EFAC&line=86EFAC&point=FFFFFF&hide_border=true)](https://github.com/Kevin-Menezes/github-readme-activity-graph)
 
 <br/>
     <a href="https://github.com/Kevin-Menezes/github-readme-stats"><img alt="Kevin's Github Stats" width="53%" src="https://github-readme-stats.vercel.app/api?username=Kevin-Menezes&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000&icon_color=86EFAC&title_color=86EFAC" /></a>
