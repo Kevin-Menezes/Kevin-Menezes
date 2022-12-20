@@ -26,7 +26,7 @@
 ## About Me  
 - I’m a Java Backend Web Developer ⭐     
 
-- Currently improving my skills in Devops, Python & Microservices using Spring Boot 🍃     
+- Currently improving my skills in Devops | Python | Microservices using Spring Boot     
 
 - ❤️ to consistently learn & explore different technologies    
 
