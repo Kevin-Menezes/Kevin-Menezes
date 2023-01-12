@@ -34,7 +34,7 @@
 
 - Fun Fact : I'm also a singer & musician 🎹🎸 
 
-- Resume : <a href="https://drive.google.com/file/d/1RLDbLiIaJ6tCzxoA-mywAUiw0ozlvfxh/view?usp=sharing">Click here!</a>
+- Resume : <a href="https://drive.google.com/file/d/1VtnTHHEFAqku89AA5IwF0c8oKA5HIXcO/view?usp=share_link">Click here!</a>
 
 <br />
 <hr>
